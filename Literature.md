@@ -8,3 +8,7 @@ ISO 690
 *[Haufe, S., Meinecke, F., Görgen, K., Dähne, S., Haynes, J. D., Blankertz, B., & Bießmann, F. (2014). On the interpretation of weight vectors of linear models in multivariate neuroimaging. Neuroimage, 87, 96-110.
 ISO 690	
 ](http://www.sciencedirect.com/science/article/pii/S1053811913010914)
+
+# Neural networks
+
+*http://karpathy.github.io/2015/05/21/rnn-effectiveness/
